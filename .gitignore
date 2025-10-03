@@ -1,0 +1,27 @@
+# Ignorar AppData
+AppData/
+
+# Ignorar Downloads
+Downloads/
+
+# Ignorar Videos
+Videos/
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de respaldo
+*.bak
+
+# Ignorar archivos de configuración de usuario de Windows
+NTUSER.DAT
+*.ini
+# Ignorar carpeta PSeInt
+pseint/
+
+# Ignorar todos los archivos .exe
+*.exe
+
+# Ignorar cualquier archivo temporal
+*.tmp
+
