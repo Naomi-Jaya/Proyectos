@@ -10,7 +10,7 @@ int main(){
         printf("Ingrese el número de estudiantes: ");
         resultado = scanf("%d" ,&numEstudiantes);
         if (resultado != 1){
-            printf("Error,debe ingresar un número positivo\n");
+            printf("Error,no se permiten letras\n");
             scanf("%*s");
         }
         else if (numEstudiantes <= 0){
